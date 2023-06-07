@@ -1,4 +1,3 @@
-// Definición del objeto Televisión
 var Television = {
     encendida: false,
     volumen: 0,
